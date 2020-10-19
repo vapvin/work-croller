@@ -1,0 +1,5 @@
+1603067751821	geckodriver	INFO	Listening on 127.0.0.1:63323
+1603067752288	mozrunner::runner	INFO	Running command: "/Applications/Firefox Nightly.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/0_/ls_fw3px6rj_fdqsh6r6kcrh0000gn/T/rust_mozprofile8wVRAG"
+1603067756252	Marionette	INFO	Listening on port 63333
+1603067756273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603067838082	Marionette	INFO	Stopped listening on port 63333
